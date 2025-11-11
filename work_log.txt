@@ -1,0 +1,4 @@
+Trenton
+    - 11/10/25
+        - 3hrs
+            - Wrote evo alg
